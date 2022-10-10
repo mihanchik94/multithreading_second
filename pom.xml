@@ -10,6 +10,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>automarket_simulator</module>
+        <module>reustarant_simulator</module>
     </modules>
 
     <properties>
